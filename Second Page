@@ -7,19 +7,19 @@
     h1 {
       font-family: helvetica now;
       font size: 600%;
-      text-align: center;
+      text-align: left;
       color: purple;
   }
     h2 {
       font-family: helvetica now;
       font size: 400%;
-      text-align: center;
+      text-align: left;
       color: red;
   }
   h3 {
       font-family: helvetica now;
       font size: 300%;
-      text-align: center;
+      text-align: left;
       color: red;
   }
 
