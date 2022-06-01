@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Flash Coding</title>
+		<style>
+	body {background-color: powderblue;}
+    h1 {
+      font-family: helvetica now;
+      font size: 600%;
+      text-align: center;
+      color: purple;
+  }
+    h2 {
+      font-family: helvetica now;
+      font size: 400%;
+      text-align: center;
+      color: red;
+  }
+  h3 {
+      font-family: helvetica now;
+      font size: 300%;
+      text-align: center;
+      color: red;
+  }
+
+p {
+	font-family: helvetica now;
+      	font size: 200%;
+	color: green;
+}
+
+  	       </style>
+	</head>
+	<body>
+		<h1>Research</h1>
+    <p>Basic Research</p>
+		<h2>The Importance</h2>
+    <p>Why it is important</p>
+    <h2>How to conduct research</h2>
+    <p>Explain Issue</p>
+    <h3>Procedure</h3>
+    <p>Timeline</p>
+    <h2>Conclusions</h2>
+    <p>Explain Issue</p>
