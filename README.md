@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html>
-      <head>
-             <title>First Webpage</title>
-      </head>
+    
       <body>
-            <h1>happy coding</h1>
-            <p>hello world</p>
-            <br>
-            <p>yes</p>
+            <h1>Go Kart Racing</h1>
+            <h3>Damian Rivas-Chel</h3>
+            <p>Question. How are organizations across Europe trying to bring down the large barrier to entry to Motorsport for people interested?</p>
+            
 		
 	</body>
 </html>
