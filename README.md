@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <heading>
-      
+      <body>
             <h1>Go Kart Racing</h1>
             <h3>Damian Rivas-Chel</h3>
             <p>
